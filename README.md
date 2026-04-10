@@ -1,2 +1,32 @@
-.# -Financial-KPI-Dashboard
-I will build a 5-page Power BI dashboard using Global Superstore data processed with Python + SQL. Tracks revenue, profit, KPIs, and trends
+# 📊 Financial KPI Dashboard
+
+## 🔍 Overview
+
+This project analyzes retail sales data to identify profitability trends and business insights.
+
+## 🛠 Tools Used
+
+* Python (Pandas, NumPy)
+* SQL
+* Power BI
+
+## 📈 Key Insights
+
+* 18.7% loss-making transactions identified
+* High discounts causing negative profit margins
+
+## 📊 Dashboard Features
+
+* KPI cards (Revenue, Profit, Margin)
+* Region & category filters
+* Trend analysis
+
+## 📂 Files
+
+* Dataset
+* Power BI Dashboard (.pbix)
+* SQL Queries
+
+## 🔗 Live Dashboard
+
+
