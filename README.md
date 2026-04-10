@@ -28,5 +28,6 @@ This project analyzes retail sales data to identify profitability trends and bus
 * SQL Queries
 
 ## 🔗 Live Dashboard
+https://github.com/ShraddhaNakhate03/-Financial-KPI-Dashboard/tree/main/Financial_KPI
 
 
