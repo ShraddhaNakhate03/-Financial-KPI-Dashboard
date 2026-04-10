@@ -41,7 +41,7 @@ This project analyzes retail sales data to identify profitability trends and bus
 * Power BI Dashboard (.pbix)
 * SQL Queries
 
-## 🔗 Live Dashboard
+
 
 
 
